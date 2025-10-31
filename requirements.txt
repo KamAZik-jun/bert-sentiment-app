@@ -6,4 +6,3 @@ tqdm==4.66.5
 numpy==1.26.4
 pandas==2.2.2
 safetensors==0.4.2
--f https://download.pytorch.org/whl/torch_stable.html

@@ -1,3 +1,8 @@
-streamlit
-torch
-transformers
+streamlit==1.38.0
+torch==2.4.1
+transformers==4.43.3
+tokenizers==0.19.1
+tqdm==4.66.5
+numpy==1.26.4
+pandas==2.2.2
+safetensors==0.4.2
